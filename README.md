@@ -3,6 +3,7 @@
 This is a guided project to understanding introductory NLP concepts by building a Natural Language Processing (NLP) Classification application to detect spam emails.
 
 NLP concepts used:
+* Natural Language Toolkit
 * Tokenization
 * Lemmatization
 * Stop Word Removal
