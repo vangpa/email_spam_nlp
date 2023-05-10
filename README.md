@@ -5,7 +5,6 @@ This is a guided project to understanding introductory NLP concepts by building 
 NLP concepts used:
 * Bullet list
               * Nested bullet
-                  * Sub-nested bullet etc
 *Tokenization
 *Lemmatization
 *Stop Word Removal
